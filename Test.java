@@ -5,6 +5,8 @@ class Test{
 
 	public void addInt(int a, int b){}
 
-	public void addFloat(float a, float b){}
+	public void addFloat(float a, float b){
+		System.out.println(a + b);
+	}
 
 }
